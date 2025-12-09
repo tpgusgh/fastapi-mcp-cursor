@@ -1,0 +1,8 @@
+mcp
+google-generativeai
+langchain==0.2.7
+langchain-community==0.2.6
+langchain-google-genai==1.0.7
+faiss-cpu
+pypdf
+python-dotenv
